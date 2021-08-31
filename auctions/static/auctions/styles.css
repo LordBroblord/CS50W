@@ -1,0 +1,63 @@
+body {
+    padding: 10px;
+}
+
+
+#header {
+    width: 100%;
+}
+
+#header-logo {
+    width: 120px;
+    text-align: left;
+}
+
+#header-links {
+    text-align: right;
+}
+
+
+#new-listing-form {
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 43px;
+}
+
+
+.listing-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 10px;
+}
+
+.listing-table-row {
+    margin: 5px;
+    height: 300px;
+    max-height: 300px;
+}
+
+.listing-table-element {
+    padding: 10px;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+
+
+
+.listing-flex-container {
+    display: flex;
+}
+
+.listing-preview {
+    max-width: 800px;
+    max-height: 500px;
+    padding: 30px;
+}
+
+.listing-info {
+    padding: 30px;
+}
+
+.comment-section {
+    padding: 30px;
+}
