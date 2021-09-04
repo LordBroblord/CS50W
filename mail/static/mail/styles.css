@@ -1,0 +1,43 @@
+textarea {
+    min-height: 400px;
+}
+
+
+/* style email preview */
+.email-preview {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid grey;
+}
+.archive-button {
+    background-color: #e6e6e6;
+    display: block;
+    margin-left: auto;
+}
+
+
+/* style email page */
+.email {
+    margin: 50px 0 80px 0;
+}
+#reply-button {
+    display: block;
+    margin-left: auto;
+}
+.email-subject {
+    font-size: 24px;
+    padding-bottom: 25px;
+}
+.email-address {
+    font-size: 15px;
+    padding-left: 35px;
+    padding-bottom: 15px;
+}
+.email-body {
+    font-size: 18px;
+    padding: 45px 0 45px 0;
+}
+.email-timestamp {
+    font-size: 12px;
+    padding-bottom: 45px;
+}
